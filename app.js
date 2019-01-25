@@ -13,6 +13,9 @@ const port = 3000;
 app.use(express.static('public'));
 
 //Specify the routes to be used for our appplication
+app.use(routes);
+
+//Begin accepting connections to the specified port
 app.listen(port, () => {
   //Display server location inofrmation to the console
   console.log(`Server is listening at http://${hostname}:${port}/`);
