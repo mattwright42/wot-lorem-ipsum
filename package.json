@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mattwright42/wot-lorem-ipsum/issues"
   },
-  "homepage": "https://github.com/mattwright42/wot-lorem-ipsum#readme"
+  "homepage": "https://github.com/mattwright42/wot-lorem-ipsum#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
