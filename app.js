@@ -2,7 +2,7 @@
 const express = require('express');
 const app = express();
 
-//Require teh express routes defined in router.js
+//Require the express routes defined in router.js
 const routes = require('./router');
 
 //Define the hostname and port where the server can be found
