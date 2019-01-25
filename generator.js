@@ -14,7 +14,7 @@ function GenerateNewText() {
   ];
 }
 
-//Method to the GenerateNewTExt constructor function that generates a random sentence
+//Method to the GenerateNewText constructor function that generates a random sentence
 GenerateNewText.prototype.getRandomSentence = function() {
   let randomSentence = this.sentences[
     Math.floor(Math.random() * this.sentences.length)

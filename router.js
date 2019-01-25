@@ -30,10 +30,11 @@ router.post('/', (req, res) => {
     //Generate the lorem ipsum text with the getAllParagraphs function
     let loremIpsumText = loremIpsum.getAllParagraphs(numberOfParagraphs);
     //Capture the contents of index.html in a variable
-    let fileContents = fileContents.replace(
-      "<div class='placeholder-div'></div>",
-      loremIpsumText
-    );
+    let fileContents = fs.readFileSync('./public/index.html', {
+      encoding: 'utf8'
+    });
+    //Replace the placeholder <div> with the lorem ipsum text
+    fileContents.replace("<div class='placeholder-div'></div>", loremIpsumText);
     res.setHeader('Content-Type', 'text/html');
     //Send a response to the client with the modified index.html file
     res.write(fileContents);
