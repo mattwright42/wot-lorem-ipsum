@@ -191,7 +191,29 @@ function GenerateNewText() {
     "I will use anybody I must. You said it yourself; I am who I am. And I'm using myself up, Perrin, because I have to. Just like I'll use anybody I have to. We don't have a choice anymore. Not me, not you, not anybody!",
     "I always thought the stole weighted about as much as three good men. The Amyrlin has few easy decisions to make, and fewer where she can be sure. Do what you myst, and pay the price if you're wrong. Sometimes if you are right, too.",
     "Honor? Maybe they're letting him sleep on silk, but a prisoner is still a prisoner.",
-    'The only man completely at peace is a man without a navel.'
+    'The only man completely at peace is a man without a navel.',
+    'You always had to pay the butcher,',
+    'Young men and fools sometimes bear pain they do not have to as a badge of their pride. Or their foolishness.',
+    "If you don't know everything, you must go on with what you know.",
+    "Only a fool thinks his enemies stand still when he isn't looking, my Lord Dragon.",
+    'Whatever can be done, can be undone.',
+    "A jealous wife is like a hornets' nest in your mattress.",
+    'What woman could I hate enough to marry her to the Dragon Reborn?',
+    "When you leap from a cliff, it is too late for anything but holding to your courage. And hoping there's a haywain at the bottom to land in.",
+    'The weak must be bold cautiously.',
+    'Wounds to the pride are remembered long after wounds to the flesh.',
+    'It is the enemy you underestimate who kills you.',
+    'The more bosom a woman displayed, the less she wanted you to look. Openly, at least.',
+    "'When a woman plays the fool, look for the man.' That was one of Lini's favorites. Another was, 'Kittens tangle your yarn, men tangle your wits, and it's simple as breathing for both.'",
+    'I killed the whole world, and you can too, if you try hard.',
+    'I think the woman was born in Far Madding in a thunderstorm. She probably told the thunder to be quiet. It probably did.',
+    'A man who trusts everyone is a fool, and a man who trusts no on is a fool. We are all fools, if we live long enough.',
+    'I thought I could build, I was wrong. We are not builders, not you, or I, or the other one. We are destroyers. Destroyers.',
+    'Any day you wake up, maybe you die.',
+    'You can never know everything, and part of what you know is always wrong. Perhaps even the most importnat part. A portion of wisdom lies in knowing that. A portion of courage lies in going on anyway.',
+    'If a woman does need a hero, she needs him today, not tomorrow.',
+    "Sometimes, pain is all that lets you know you're alive.",
+    'We rode on the winds of the rising storm, we ran to the sounds of thunder. We danced among the lightning bolts and tore the world asunder.'
   ];
 }
 
