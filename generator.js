@@ -5,7 +5,7 @@ const loremIpsum = new GenerateNewText();
 
 //Constructor function that creates an object with the sentences property
 function GenerateNewText() {
-  //Add property tot he object
+  //Add property to the object
   this.sentences = [
     'The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again.',
     'In wars, boy, fools kill other fools for foolish causes.',
