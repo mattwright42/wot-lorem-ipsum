@@ -213,7 +213,26 @@ function GenerateNewText() {
     'You can never know everything, and part of what you know is always wrong. Perhaps even the most importnat part. A portion of wisdom lies in knowing that. A portion of courage lies in going on anyway.',
     'If a woman does need a hero, she needs him today, not tomorrow.',
     "Sometimes, pain is all that lets you know you're alive.",
-    'We rode on the winds of the rising storm, we ran to the sounds of thunder. We danced among the lightning bolts and tore the world asunder.'
+    'We rode on the winds of the rising storm, we ran to the sounds of thunder. We danced among the lightning bolts and tore the world asunder.',
+    'A man should never give promises in bed.',
+    "A beautiful battle is one you don't have to fight.",
+    'The boy was dead eager, which could soon lead to plain dead.',
+    'To fight the raven you may make alliance with the serpent until the battle is done.',
+    'There is some delight in ale and wine, and some in girls with ankles fine, but my delight, yes always mine, is to dance with Jak O’ the Shadows. We will toss the dice however they fall, and snuggle the girls be they short or tall, then follow lord Mat whenever he calls, to dance with Jak O’ the Shadows.',
+    'Let the Lord of Chaos rule.',
+    "Ravens and crows. Rats. Mists and clouds. Insects and corruption. Strange events and odd occurences. The ordinary twisted and strange. Wonders. The dead are beginning to walk and some see them. Others do not, but more and more, we fear the night. These have been our days. They rain upon us beneath a dead sky, crushing us with their fury, until as one, we beg, 'Let it begin.'",
+    'The end is near. The Wheel has groaned its final rotation, the clock has lost its spring, the serpent heaves its final gasps. He must know pain of heart. He must know frustration, and he must know anguish. Bring these to him. And you will be rewarded.',
+    'Sometimes, a wife must do what her husband cannot.',
+    "How was he to cause war, as the prophecies say he must? How was he to break the nations and bind them to him. How could he 'saly his people with the sword of peace' or 'bind the nine moons to serve him' if he was locked away? Do the prophecies not say that he will be 'unfettered'? Do they not speak of the 'chaos of his passing'? How can anything pass at all if he is kept in chains?",
+    "We can't go back, Mat. The Wheel has turned, for better or worse. And it will keep turning, as lights die and forests dim, storms call and skies break. Turn it will. The Wheel is not hope, and the Wheel does not care, the Wheel simply is. But so long as it tunes, folk may hope, folk may care. For with light that fades, another will eventually grow, and each storm that rages must eventually die. As long as the Wheel turns. As long as it turns...",
+    "Aviendha didn't trust change. It couldn't be spotted or stabbed; it was more silent than any scout, more deadly than any assassin. No, she'd never trust it, but she would accept it.",
+    'The more tragic things get, the more I feel like laughing.',
+    'At the end of time, when the many become one, the last storm shall gather its angry winds to destroy a land already dying. And at its center, the blind man shall stand upon his own grave. There hs shall see again, and weep for what has been wrought.',
+    'What could not be chnaged must be endured.',
+    'Only the dead could afford oblivion.',
+    "By the Creator at the moment of creation. May we shelter safe beneath the Light, in the Creator's hand.",
+    "A man's word must be as good as an oath sworn beneath the Light or it was no good at all.",
+    'Anger narrowed the vision and made for follish choices.'
   ];
 }
 
