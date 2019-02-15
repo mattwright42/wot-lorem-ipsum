@@ -1,7 +1,7 @@
 //Require the necessary modules
 const loremIpsum = require('./generator.js');
 const querystring = require('querystring');
-const fs = 'fs';
+const fs = require('fs');
 
 //Require express and create an express router object
 const express = require('express');
