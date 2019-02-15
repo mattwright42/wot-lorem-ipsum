@@ -1,7 +1,7 @@
 {
   "name": "wot-lorem-ipsum",
   "version": "1.0.0",
-  "description": "Lorem Ipsum Generator using Wheel of Time words",
+  "description": "Lorem Ipsum Generator using Wheel of Time quotes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
