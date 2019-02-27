@@ -9,6 +9,8 @@ const routes = require('./router');
 const hostname = '127.0.0.1';
 const port = 3000;
 
+port = process.env.PORT || 3000;
+
 //Define the directory where static files are found
 app.use(express.static('public'));
 
