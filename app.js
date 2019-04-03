@@ -7,7 +7,10 @@ const routes = require('./router');
 
 //Define the hostname and port where the server can be found
 const hostname = '127.0.0.1';
-const port = 3000;
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 8000;
+}
 
 port = process.env.PORT || 3000;
 
