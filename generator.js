@@ -189,7 +189,7 @@ function GenerateNewText() {
     "Often you don't know whether a woman is friend, enemy or lover until it is too late. Sometimes, she is all three.",
     'Cheer the bull, or cheer the bear; cheer both, and you will be trampled and eaten.',
     "I will use anybody I must. You said it yourself; I am who I am. And I'm using myself up, Perrin, because I have to. Just like I'll use anybody I have to. We don't have a choice anymore. Not me, not you, not anybody!",
-    "I always thought the stole weighted about as much as three good men. The Amyrlin has few easy decisions to make, and fewer where she can be sure. Do what you myst, and pay the price if you're wrong. Sometimes if you are right, too.",
+    "I always thought the stole weighed about as much as three good men. The Amyrlin has few easy decisions to make, and fewer where she can be sure. Do what you must, and pay the price if you're wrong. Sometimes if you are right, too.",
     "Honor? Maybe they're letting him sleep on silk, but a prisoner is still a prisoner.",
     'The only man completely at peace is a man without a navel.',
     'You always had to pay the butcher,',
