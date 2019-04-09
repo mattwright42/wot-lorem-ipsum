@@ -210,7 +210,7 @@ function GenerateNewText() {
     'A man who trusts everyone is a fool, and a man who trusts no on is a fool. We are all fools, if we live long enough.',
     'I thought I could build, I was wrong. We are not builders, not you, or I, or the other one. We are destroyers. Destroyers.',
     'Any day you wake up, maybe you die.',
-    'You can never know everything, and part of what you know is always wrong. Perhaps even the most importnat part. A portion of wisdom lies in knowing that. A portion of courage lies in going on anyway.',
+    'You can never know everything, and part of what you know is always wrong. Perhaps even the most important part. A portion of wisdom lies in knowing that. A portion of courage lies in going on anyway.',
     'If a woman does need a hero, she needs him today, not tomorrow.',
     "Sometimes, pain is all that lets you know you're alive.",
     'We rode on the winds of the rising storm, we ran to the sounds of thunder. We danced among the lightning bolts and tore the world asunder.',
