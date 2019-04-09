@@ -39,7 +39,7 @@ function GenerateNewText() {
     'A man who will not die to save a woman is no man.',
     'All men dream. But I know dreams for dreams. This is reality.',
     'A shaping stone, to make us; a testing ground to prove our worth; and a punishment for the sin.',
-    'Jump in a hole without looking, and there’ll be a snake in it every time.',
+    "Jump in a hole without looking, and there’ll be a snake in it every time.",
     'You break your neck, and I’ll see it mended just so I can break it again.',
     'Do you know how to unite the people behind you, Child Carridin? The quickest way? Loose a lion - a rabid lion - in the streets. And when panic grips the people, once it has turned their bowels to water, calmly tell them you will deal with it. Then you kill it, and order them to hang the carcass up where everyone can see. Before they have time to think, you give another order, and it will be obeyed. And if you continue to give orders, they will continue to obey, for you will be the one who saved them, and who better to lead?',
     'Tonight you will eat fish. Tomorrow, you may die.',
