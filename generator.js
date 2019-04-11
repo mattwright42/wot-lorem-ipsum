@@ -156,7 +156,7 @@ function GenerateNewText() {
     "A man's dreams are a maze even he cannot know.",
     'How people see you first is what they hold hardest in their minds. It is the way of the world. You can step down from a throne, and even if you behave like a farmer in a pigsty, some part in each of them will remember that you did descend from a throne. But if they see only a young man first, a country man, they will resent him stepping up to the throne later, whatever his right, whatever his power.',
     "The Wheel of Time and the wheel of a man's life turn alike without pity or mercy.",
-    "You never exape the traps you spin yourself. Only a greater power can break a power, and then you're trapped again. Trapped forever so you cannot die.",
+    "You never escape the traps you spin yourself. Only a greater power can break a power, and then you're trapped again. Trapped forever so you cannot die.",
     'What you want is what you cannot have. What you cannot have is what you want.',
     'The yellowfly is almost too small to see, but if you leave its egg in your skin, you will lose an arm or leg before it hatches - if it does not kill you.',
     'Death rides on my shoulder, death walks in my footsteps. I am death.',

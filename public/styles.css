@@ -1,6 +1,10 @@
 body {
   background-color: darkgoldenrod;
-  font-family: 'Abril Fatface', cursive;
+  font-family: 'EB Garamond', serif;
   text-align: center;
   padding: 0 30px;
+}
+
+.title {
+  font-size: 72px;
 }
