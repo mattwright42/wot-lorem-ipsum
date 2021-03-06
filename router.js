@@ -1,19 +1,19 @@
 //Require the necessary modules
-const loremIpsum = require('./generator.js');
-const querystring = require('querystring');
-const fs = require('fs');
+const loremIpsum = require("./generator.js");
+const querystring = require("querystring");
+const fs = require("fs");
 
 //Require express and create an express router object
-const express = require('express');
+const express = require("express");
 const router = express.Router();
 
 //Route that serves index.html
-router.get('/', (req, res) => {
-  console.log('Test');
-  res.setHeader('Content-Type', 'text/html');
+router.get("/", (req, res) => {
+  console.log("Test");
+  res.setHeader("Content-Type", "text/html");
   //Capture the contents of index.html in a variable
-  let fileContents = fs.readFileSync('./public/index.html', {
-    encoding: 'utf8'
+  let fileContents = fs.readFileSync("index.html", {
+    encoding: "utf8",
   });
   //Send a response to the client with the index.html file
   res.write(fileContents);
@@ -21,9 +21,9 @@ router.get('/', (req, res) => {
 });
 
 //Route that generates the lorem ipsum text and reloads a modified index.html
-router.post('/', (req, res) => {
-  console.log('Test');
-  req.on('data', function(inputValue) {
+router.post("/", (req, res) => {
+  console.log("Test");
+  req.on("data", function (inputValue) {
     //Convert the POST data into a readable string
     let query = inputValue.toString(); //ie: numberOfParagraphs=3
 
@@ -34,8 +34,8 @@ router.post('/', (req, res) => {
     let loremIpsumText = loremIpsum.getAllParagraphs(numberOfParagraphs);
 
     //Capture the contents of index.html in a variable
-    let fileContents = fs.readFileSync('./public/index.html', {
-      encoding: 'utf8'
+    let fileContents = fs.readFileSync("index.html", {
+      encoding: "utf8",
     });
     console.log(fileContents.includes('<div class="placeholder-div"></div>'));
     console.log(loremIpsumText);
@@ -45,7 +45,7 @@ router.post('/', (req, res) => {
       loremIpsumText
     );
     // console.log(fileContents);
-    res.setHeader('Content-Type', 'text/html');
+    res.setHeader("Content-Type", "text/html");
     //Send a response to the client with the modified index.html file
     res.write(fileContents);
     res.end();
