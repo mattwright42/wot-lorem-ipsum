@@ -12,7 +12,7 @@ router.get("/", (req, res) => {
   console.log("Test");
   res.setHeader("Content-Type", "text/html");
   //Capture the contents of index.html in a variable
-  let fileContents = fs.readFileSync("index.html", {
+  let fileContents = fs.readFileSync("./public/index.html", {
     encoding: "utf8",
   });
   //Send a response to the client with the index.html file
@@ -34,7 +34,7 @@ router.post("/", (req, res) => {
     let loremIpsumText = loremIpsum.getAllParagraphs(numberOfParagraphs);
 
     //Capture the contents of index.html in a variable
-    let fileContents = fs.readFileSync("index.html", {
+    let fileContents = fs.readFileSync("./public/index.html", {
       encoding: "utf8",
     });
     console.log(fileContents.includes('<div class="placeholder-div"></div>'));
